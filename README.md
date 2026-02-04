@@ -9,7 +9,7 @@ This repository documents my journey of learning Python automation step by step.
 - `99_projects` – real-world automation mini-projects
 
 ## Learning Log
-Day 1: 
+Day 1-2: 
 - Python Automation Foundations
 - Set up Python automation project structure in PyCharm
 - Created and activated a virtual environment
@@ -22,3 +22,10 @@ Day 1:
 - Read and processed CSV files using `csv.reader` and `csv.DictReader`
 - Practiced condition-based data filtering from CSV files
 
+Day 3: 
+- File & Folder Automation
+- Inspect folder contents (`pathlib`)  
+- Create folders & files programmatically  
+- Move files automatically based on file type (`shutil`)  
+- Bulk rename files safely  
+- Safe pattern-based file deletion
