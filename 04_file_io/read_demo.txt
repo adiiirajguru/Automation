@@ -1,0 +1,3 @@
+Python is powerful.
+Automation saves time.
+Practice makes progress.

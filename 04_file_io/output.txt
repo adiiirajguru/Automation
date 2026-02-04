@@ -1,0 +1,4 @@
+Automation started
+Writing first output
+Second Automation started
+Writing Second output
