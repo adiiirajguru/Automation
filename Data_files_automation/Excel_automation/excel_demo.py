@@ -21,13 +21,13 @@ def main():
 
     wb.save(excel_file)
 
-    print("Excel file created!")
+    print("Excel_CSV_file_cleaner file created!")
 
     # ---------- READ + MODIFY ----------
     wb = load_workbook(excel_file)
     sheet = wb["Employees"]
 
-    print("\nReading Excel data:")
+    print("\nReading Excel_CSV_file_cleaner data:")
 
     for row in sheet.iter_rows(values_only=True):
         print(row)
@@ -37,7 +37,7 @@ def main():
 
     wb.save(excel_file)
 
-    print("\n Excel updated!")
+    print("\n Excel_CSV_file_cleaner updated!")
 
 
 if __name__ == "__main__":

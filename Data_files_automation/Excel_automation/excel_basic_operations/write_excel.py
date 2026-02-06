@@ -15,7 +15,7 @@ def main():
 
     wb.save(excel_file)
 
-    print("Data written to Excel!")
+    print("Data written to Excel_CSV_file_cleaner!")
 
 
 if __name__ == "__main__":

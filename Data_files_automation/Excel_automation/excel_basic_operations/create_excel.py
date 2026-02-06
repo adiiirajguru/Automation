@@ -12,7 +12,7 @@ def main():
 
     wb.save(excel_file)
 
-    print("Excel file created!")
+    print("Excel_CSV_file_cleaner file created!")
 
 
 if __name__ == "__main__":

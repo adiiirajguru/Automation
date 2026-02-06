@@ -15,7 +15,7 @@ def main():
     df = pd.DataFrame(data)
     df.to_excel(file_path, index=False)
 
-    print("Messy Excel created!")
+    print("Messy Excel_CSV_file_cleaner created!")
 
 
 if __name__ == "__main__":

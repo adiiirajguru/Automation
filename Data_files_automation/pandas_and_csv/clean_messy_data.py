@@ -37,7 +37,7 @@ def main():
     # ---------- EXPORT ----------
     df.to_excel(output_file, index=False)
 
-    print("\n Clean Excel saved!")
+    print("\n Clean Excel_CSV_file_cleaner saved!")
 
 
 if __name__ == "__main__":

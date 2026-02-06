@@ -9,7 +9,7 @@ def main():
     wb = load_workbook(excel_file)
     sheet = wb["Employees"]
 
-    print("Excel contents:")
+    print("Excel_CSV_file_cleaner contents:")
 
     for row in sheet.iter_rows(values_only=True):
         print(row)

@@ -13,7 +13,7 @@ def main():
 
     wb.save(excel_file)
 
-    print(" Excel updated!")
+    print(" Excel_CSV_file_cleaner updated!")
 
 
 if __name__ == "__main__":
